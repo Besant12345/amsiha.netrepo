@@ -1,0 +1,2 @@
+stmt passing the variables for db1 of Database config map
+writing the terraform for mapping the string 
