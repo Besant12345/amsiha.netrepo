@@ -1,3 +1,0 @@
-Writing playbook script
-Writing Manifest automation script
-Writing Docker-compose script
